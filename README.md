@@ -8,7 +8,7 @@ To use the port scanner, follow these steps:
 
 1. Clone the repository:
 
-$ git clone https://github.com/your_username/port-scanner.git
+$ git clone https://github.com/nabilmursi/portscanner.git
 
 2. Navigate to the directory:
 
